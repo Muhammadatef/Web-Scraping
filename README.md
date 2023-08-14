@@ -58,6 +58,6 @@ You can customize the behavior of the script by modifying the following variable
 unfamiliar_skill: Replace this with the skill you're not familiar with.
 time_wait: Set the waiting time interval (in minutes) between job search cycles.
 
-Contributing
+#Contributing
 
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to create a pull request.
