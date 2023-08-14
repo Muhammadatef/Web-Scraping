@@ -38,7 +38,7 @@ python job_search.py
 The script will run in a loop with a specified interval. It will keep searching for new jobs and filtering them as long as the script is running.
 
 
-Installation
+#Installation
 
 Make sure you have Python 3.x installed on your system.
 
@@ -46,12 +46,12 @@ Install the required dependencies using pip:
 
 pip install beautifulsoup4 requests
 
-Dependencies
+#Dependencies
 
  BeautifulSoup: A library for pulling data out of HTML and XML files.
  Requests: A library for making HTTP requests.
 
-Configuration
+#Configuration
 
 You can customize the behavior of the script by modifying the following variables:
 
